@@ -1,8 +1,4 @@
-# Employee Attrition Prediction using Machine Learning
 
-**Author:** Janvi Singh  
-**Date:** June 2026  
-**Objective:** Clean, explore, and build machine learning classification architectures to predict corporate flight risks and isolate primary attrition drivers.
 
 ---
 
